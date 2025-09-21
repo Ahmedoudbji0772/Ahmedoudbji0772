@@ -3,9 +3,7 @@
 <!-- Header -->
 <p align="center">
   <a href="#">LinkedIn</a> -
-  <a href="#">Portfolio</a> - 
-  <a href="#">Twitter</a> -
-  <a href="#">Website</a> - 
+  <a href="#">Portfolio</a> -  
   <a href="#">Contact</a> 
 </p>
 
